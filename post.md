@@ -1,10 +1,3 @@
-<div style="max-width:600px;background-color:#d3d3d3;padding:10px;">Roger Stringer will be giving a free workshop on the topic of MMS messaging in Twilio. <a href="http://airpa.ir/tutorial-signup-twilio-tutorial-mms">Sign up here</a> to secure your spot.</div>
-
-<div class="workshop-cta">
-        <b>FREE WORKSHOP: MMS in Twilio</b>Roger Stringer is giving a free virtual workshop on implementing MMS with Twilio
-        <a href="http://airpa.ir/tutorial-signup-twilio-tutorial-mms" class="trackPostCTA">>> Sign up to secure a spot</a>
-</div>
-
 ## 1 Introduction
 
 Twilio's MMS messaging has been available for a year, but it was only useable in the U.S. via short codes. Canadian users could access it via both short and long codes.
